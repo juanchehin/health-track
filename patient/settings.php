@@ -510,7 +510,7 @@ echo '
                                    
                                     <td class="label-td" colspan="">
                                             <label for="name" class="form-label">Name: </label>
-                                            <input type="text" name="name" class="input-text" placeholder="Doctor Name" value="'.$name.'" required><br>
+                                            <input type="text" name="name" class="input-text" placeholder="Nombre" value="'.$name.'" required><br>
                                         </td>
                                         
                                     </tr>
@@ -625,7 +625,7 @@ onReady(function () {
 
       </script>
 
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

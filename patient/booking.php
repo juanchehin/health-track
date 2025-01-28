@@ -96,7 +96,7 @@
                 <tr class="menu-row">
                     <td class="menu-btn menu-icon-doctor">
                         <a href="doctors.php" class="non-style-link-menu">
-                            <div><p class="menu-text"><i class="material-symbols-outlined">supervised_user_circle</i>All Doctors</p></a></div>
+                            <div><p class="menu-text"><i class="material-symbols-outlined">supervised_user_circle</i>Doctores</p></a></div>
                     </td>
                 </tr>
                 
@@ -259,7 +259,7 @@
                                                           
                                                         </div><br>
                                                         <div class="h3-search" style="font-size:18px;">
-                                                            Session Title: '.$title.'<br>
+                                                            Sesion: '.$title.'<br>
                                                             Session Scheduled Date: '.$scheduledate.'<br>
                                                             Session Starts : '.$scheduletime.'<br>
                                                             Channeling fee : <b>LKR.2 000.00</b>
@@ -328,7 +328,7 @@
         </div>
    
  
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="css/animations.css">  
     <link rel="stylesheet" href="css/main.css">  
     <link rel="stylesheet" href="css/signup.css">
-        
-    <title>Create Account</title>
+
+    <title>Crear cuenta</title>
     <style>
         .container{
             animation: transitionIn-X 0.5s;
@@ -28,7 +28,7 @@ $_SESSION["user"]="";
 $_SESSION["usertype"]="";
 
 // Set the new timezone
-date_default_timezone_set('Asia/Kolkata');
+date_default_timezone_set('America/Argentina/Buenos_Aires');
 $date = date('Y-m-d');
 
 $_SESSION["date"]=$date;
@@ -98,8 +98,8 @@ if($_POST){
         <table border="0" style="width: 69%;">
             <tr>
                 <td colspan="2">
-                    <p class="header-text">Let's Get Started</p>
-                    <p class="sub-text">It's Okey, Now Create User Account.</p>
+                    <p class="header-text">Empezar</p>
+                    <p class="sub-text">Crear cuenta</p>
                 </td>
             </tr>
             <tr>
@@ -116,7 +116,7 @@ if($_POST){
             </tr>
             <tr>
                 <td class="label-td" colspan="2">
-                    <label for="tele" class="form-label">Mobile Number: </label>
+                    <label for="tele" class="form-label">Telefono: </label>
                 </td>
             </tr>
             <tr>
@@ -126,7 +126,7 @@ if($_POST){
             </tr>
             <tr>
                 <td class="label-td" colspan="2">
-                    <label for="newpassword" class="form-label">Create New Password: </label>
+                    <label for="newpassword" class="form-label">Crear nueva contraseña: </label>
                 </td>
             </tr>
             <tr>
@@ -136,7 +136,7 @@ if($_POST){
             </tr>
             <tr>
                 <td class="label-td" colspan="2">
-                    <label for="cpassword" class="form-label">Conform Password: </label>
+                    <label for="cpassword" class="form-label">Confirmar contraseña: </label>
                 </td>
             </tr>
             <tr>
@@ -165,7 +165,7 @@ if($_POST){
             <tr>
                 <td colspan="2">
                     <br>
-                    <label for="" class="sub-text" style="font-weight: 280;">Already have an account&#63; </label>
+                    <label for="" class="sub-text" style="font-weight: 280;">Ya inicializada&#63; </label>
                     <a href="login.php" class="hover-link1 non-style-link">Login</a>
                     <br><br><br>
                 </td>
@@ -177,7 +177,7 @@ if($_POST){
 
     </div>
 </center>
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

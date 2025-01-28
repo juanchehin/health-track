@@ -95,7 +95,7 @@
                 <tr class="menu-row">
                     <td class="menu-btn menu-icon-doctor">
                         <a href="doctors.php" class="non-style-link-menu">
-                            <div><p class="menu-text"><i class="material-symbols-outlined">supervised_user_circle</i>All Doctors</p></a></div>
+                            <div><p class="menu-text"><i class="material-symbols-outlined">supervised_user_circle</i>Doctores</p></a></div>
                     </td>
                 </tr>
                 
@@ -450,7 +450,7 @@ onReady(function () {
 });
 
       </script>
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

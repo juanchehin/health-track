@@ -79,7 +79,7 @@
                 <tr class="menu-row">
                     <td class="menu-btn menu-icon-doctor menu-active menu-icon-doctor-active">
                         <a href="doctors.php" class="non-style-link-menu non-style-link-menu-active">
-                            <div><p class="menu-text"><i class="material-symbols-outlined">supervised_user_circle</i>All Doctors</p></a></div>
+                            <div><p class="menu-text"><i class="material-symbols-outlined">supervised_user_circle</i>Doctores</p></a></div>
                     </td>
                 </tr>
                 
@@ -237,7 +237,7 @@ youtube_activity
                                     $row00=$list11->fetch_assoc();}?>
 
                     <td>
-           <p style="margin-left: 45px;font-size:18px;background: #dae1f3;margin:0px;padding: 12px;color: #444;">All Doctors (<?php echo $list11->num_rows; ?>)</p>
+           <p style="margin-left: 45px;font-size:18px;background: #dae1f3;margin:0px;padding: 12px;color: #444;">Doctores (<?php echo $list11->num_rows; ?>)</p>
        </td>
                         <td>
                              <form action="" method="post" class="header-search">
@@ -287,7 +287,7 @@ youtube_activity
                                 <th class="table-headin">
                                     
                                 
-                                Doctor Name
+                                Nombre
                                 
                                 </th>
                                 <th class="table-headin">
@@ -295,12 +295,12 @@ youtube_activity
                                 </th>
                                 <th class="table-headin">
                                     
-                                    Specialties
+                                    Especialidades
                                     
                                 </th>
                                 <th class="table-headin">
                                     
-                                    Events
+                                    Eventos
                                     
                                 </tr>
                         </thead>
@@ -487,7 +487,7 @@ youtube_activity
                             </tr>
                             <tr>
                                 <td class="label-td" colspan="2">
-                                    <label for="spec" class="form-label">Specialties: </label>
+                                    <label for="spec" class="form-label">Especialidades: </label>
                                     
                                 </td>
                             </tr>
@@ -615,7 +615,7 @@ youtube_activity
                                     </tr>
                                     <tr>
                                         <td class="label-td" colspan="2">
-                                            <input type="text" name="name" class="input-text" placeholder="Doctor Name" value="'.$name.'" required><br>
+                                            <input type="text" name="name" class="input-text" placeholder="Nombre" value="'.$name.'" required><br>
                                         </td>
                                         
                                     </tr>
@@ -759,7 +759,7 @@ onReady(function () {
 });
 
       </script>
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

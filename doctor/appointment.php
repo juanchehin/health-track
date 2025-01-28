@@ -313,7 +313,7 @@ youtube_activity
                                 <th class="table-headin">
                                     
                                 
-                                    Session Title
+                                    Sesion
                                     
                                     </th>
                                 
@@ -331,7 +331,7 @@ youtube_activity
                                 
                                 <th class="table-headin">
                                     
-                                    Events
+                                    Eventos
                                     
                                 </tr>
                         </thead>
@@ -451,7 +451,7 @@ youtube_activity
                             <tr>
                                 <td class="label-td" colspan="2">
                                 <form action="add-session.php" method="POST" class="add-new-form">
-                                    <label for="title" class="form-label">Session Title : </label>
+                                    <label for="title" class="form-label">Sesion : </label>
                                 </td>
                             </tr>
                             <tr>
@@ -468,7 +468,7 @@ youtube_activity
                             <tr>
                                 <td class="label-td" colspan="2">
                                     <select name="docid" id="" class="box" >
-                                    <option value="" disabled selected hidden>Choose Doctor Name from the list</option><br/>';
+                                    <option value="" disabled selected hidden>Elija el nombre del doctor de la lista</option><br/>';
                                         
         
                                         $list11 = $database->query("select  * from  doctor;");
@@ -659,7 +659,7 @@ youtube_activity
                             </tr>
                             <tr>
                                 <td class="label-td" colspan="2">
-                                    <label for="spec" class="form-label">Specialties: </label>
+                                    <label for="spec" class="form-label">Especialidades: </label>
                                     
                                 </td>
                             </tr>
@@ -713,7 +713,7 @@ onReady(function () {
 });
 
       </script>
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

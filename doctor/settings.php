@@ -402,7 +402,7 @@ youtube_activity
                            
                             <tr>
                                 <td class="label-td" colspan="">
-                                    <label for="spec" class="form-label">Specialties: </label>
+                                    <label for="spec" class="form-label">Especialidades: </label>
                                      <td class="label-td" colspan="">
                             '.$spcil_name.'<br><br>
                             </td>
@@ -486,7 +486,7 @@ youtube_activity
 
                                          <td class="label-td" colspan="">
                                             <label for="name" class="form-label">Name: </label>
-                                            <input type="text" name="name" class="input-text" placeholder="Doctor Name" value="'.$name.'" required><br>
+                                            <input type="text" name="name" class="input-text" placeholder="Nombre" value="'.$name.'" required><br>
                                         </td>
 
                                     </tr>
@@ -592,7 +592,7 @@ youtube_activity
     }
         ?>
 
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

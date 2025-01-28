@@ -159,7 +159,7 @@ youtube_activity
                     <div class="profile dropdown">
                        <img src="../img/profile.png" width="45px">
                        <div class="toggel">
-                          <span style="">Mayuri K.</span><br>
+                          <span style="">Slider Computacion</span><br>
                          <span style="">
                         info@compubinario.com
                          </span>
@@ -236,7 +236,7 @@ youtube_activity
                
                 <tr >
                     <!-- <td colspan="2" style="padding-top:30px;">
-                        <p class="heading-main12" style="margin-left: 45px;font-size:20px;color:rgb(49, 49, 49)">Add New Doctor</p>
+                        <p class="heading-main12" style="margin-left: 45px;font-size:20px;color:rgb(49, 49, 49)">Nuevo doctor</p>
                     </td> -->
                     
                 </tr>
@@ -249,7 +249,7 @@ youtube_activity
                                     $row00=$list11->fetch_assoc();} ?>   
 
                     <td>
-    <p style="font-size: 23px;padding-left:30px;font-weight: 400; background: #dae1f3; margin-bottom: 0;padding: 5px;margin-top: 0;font-size: 20px;  color: #444;">All Doctors (<?php echo $list11->num_rows; ?>)</p>
+    <p style="font-size: 23px;padding-left:30px;font-weight: 400; background: #dae1f3; margin-bottom: 0;padding: 5px;margin-top: 0;font-size: 20px;  color: #444;">Doctores (<?php echo $list11->num_rows; ?>)</p>
 
              <td >
                          <form action="" method="post" class="header-search">
@@ -316,12 +316,12 @@ youtube_activity
                                 </th>
                                 <th class="table-headin">
                                     
-                                    Specialties
+                                    Especialidades
                                     
                                 </th>
                                 <th class="table-headin">
                                     
-                                    Events
+                                    Eventos
                                     
                                 </tr>
                         </thead>
@@ -518,7 +518,7 @@ edit_square</i>
                             </tr>
                             <tr>
                                 <td class="label-td" colspan="2">
-                                    <label for="spec" class="form-label">Specialties: </label>
+                                    <label for="spec" class="form-label">Especialidades: </label>
                                     
                                 </td>
                             </tr>
@@ -571,7 +571,7 @@ edit_square</i>
                             </tr>
                             <tr>
                                 <td>
-                                    <p style="padding: 0;margin: 0;text-align: left;font-size: 25px;font-weight: 500;">Add New Doctor.</p><br><br>
+                                    <p style="padding: 0;margin: 0;text-align: left;font-size: 25px;font-weight: 500;">Nuevo doctor.</p><br><br>
                                 </td>
                             </tr>
                             
@@ -580,7 +580,7 @@ edit_square</i>
                                 <tr>
                                 <td class="label-td" colspan="">
                                     <label for="name" class="form-label">Name: </label>
-                                    <input type="text" name="name" class="input-text" placeholder="Doctor Name" required><br>
+                                    <input type="text" name="name" class="input-text" placeholder="Nombre" required><br>
                                 </td>
                             
                            
@@ -749,7 +749,7 @@ edit_square</i>
                                     </tr>
                                     <tr>
                                         <td class="label-td" colspan="2">
-                                            <input type="text" name="name" class="input-text" placeholder="Doctor Name" value="'.$name.'" required><br>
+                                            <input type="text" name="name" class="input-text" placeholder="Nombre" value="'.$name.'" required><br>
                                         </td>
                                         
                                     </tr>
@@ -893,10 +893,10 @@ onReady(function () {
 });
 
       </script>
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

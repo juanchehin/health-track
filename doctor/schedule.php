@@ -282,25 +282,25 @@ youtube_activity
                                 <th class="table-headin">
                                     
                                 
-                                Session Title
+                                Sesion
                                 
                                 </th>
                                 
                                 
                                 <th class="table-headin">
                                     
-                                    Sheduled Date & Time
+                                    Horario
                                     
                                 </th>
                                 <th class="table-headin">
                                     
-                                Max num that can be booked
+                                Número máximo que se puede reservar.
                                     
                                 </th>
                                 
                                 <th class="table-headin">
                                     
-                                    Events
+                                    Eventos
                                     
                                 </tr>
                         </thead>
@@ -442,7 +442,7 @@ youtube_activity
                             <tr>
                                 
                                 <td class="label-td" colspan="2">
-                                    <label for="name" class="form-label">Session Title: </label>
+                                    <label for="name" class="form-label">Sesion: </label>
                                 </td>
                             </tr>
                             <tr>
@@ -615,7 +615,7 @@ onReady(function () {
 });
 
       </script>
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

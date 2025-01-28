@@ -114,7 +114,7 @@
                         <a href="doctors.php" class="non-style-link-menu">
                             <div>
                                 <p class="menu-text">
-                                    <i class="material-symbols-outlined">supervised_user_circle</i>All Doctors</p></a></div>
+                                    <i class="material-symbols-outlined">supervised_user_circle</i>Doctores</p></a></div>
                     </td>
                 </tr>
                 
@@ -578,7 +578,7 @@ youtube_activity
                             </tr>
                             <tr>
                                 <td class="label-td" colspan="2">
-                                    <label for="spec" class="form-label">Specialties: </label>
+                                    <label for="spec" class="form-label">Especialidades: </label>
                                     
                                 </td>
                             </tr>
@@ -632,7 +632,7 @@ onReady(function () {
 });
 
       </script>
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

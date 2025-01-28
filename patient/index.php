@@ -96,7 +96,7 @@
                <td class="menu-btn menu-icon-doctor">
                   <a href="doctors.php" class="non-style-link-menu">
                      <div>
-                        <p class="menu-text"> <i class="material-symbols-outlined">supervised_user_circle</i>All Doctors</p>
+                        <p class="menu-text"> <i class="material-symbols-outlined">supervised_user_circle</i>Doctores</p>
                   </a>
                   </div>
                </td>
@@ -262,7 +262,7 @@ youtube_activity
                               <h3>Welcome!</h3>
                               <h1><?php echo $username  ?>.</h1>
                               <p>Haven't any idea about doctors? no problem let's jumping to 
-                                 <a href="doctors.php" class="non-style-link"><b>"All Doctors"</b></a> section or 
+                                 <a href="doctors.php" class="non-style-link"><b>"Doctores"</b></a> section or 
                                  <a href="schedule.php" class="non-style-link"><b>"Sessions"</b> </a><br>
                                  Track your past and future appointments history.<br>Also find out the expected arrival time of your doctor or medical consultant.<br><br>
                               </p>
@@ -313,7 +313,7 @@ youtube_activity
                                              </div>
                                              <br>
                                              <div class="h3-dashboard">
-                                                All Doctors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                Doctores &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                              </div>
                                           </div>
                                           <div class=" dashboard-icons" >
@@ -383,13 +383,13 @@ youtube_activity
                         Appoint. Number
                         </th>
                         <th class="table-headin">
-                        Session Title
+                        Sesion
                         </th>
                         <th class="table-headin">
                         Doctor
                         </th>
                         <th class="table-headin">
-                        Sheduled Date & Time
+                        Horario
                         </th>
                         </tr>
                         </thead>
@@ -484,7 +484,7 @@ onReady(function () {
 });
 
       </script>
-   <!--  Orginal Author Name: Mayuri K. 
+   <!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

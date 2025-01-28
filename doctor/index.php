@@ -285,7 +285,7 @@
                         <div  class="dashboard-items bg-danger"  style="padding:20px;margin:auto;width:95%;display: flex">
                             <div>
                                  <div class="h3-dashboard">
-                                        All Doctors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        Doctores &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                     </div><br>
                                     <div class="h1-dashboard">
                                         <?php    echo $doctorrow->num_rows  ?>
@@ -367,7 +367,7 @@
                                                 <th class="table-headin">
                                                     
                                                 
-                                                Session Title
+                                                Sesion
                                                 
                                                 </th>
                                                 
@@ -479,7 +479,7 @@ onReady(function () {
 });
 
       </script>
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

@@ -145,7 +145,7 @@ cloud_upload
                     <div class="profile dropdown" >
                        <img src="../img/profile.png" width="45px">
                          <div class="toggel">
-                          <span style="">Mayuri K.</span><br>
+                          <span style="">Slider Computacion</span><br>
                          <span style="">
                         info@compubinario.com
                          </span>
@@ -302,7 +302,7 @@ cloud_upload
                                 </th>
                                 <th class="table-headin">
                                     
-                                    Events
+                                    Eventos
                                     
                                 </tr>
                         </thead>
@@ -537,10 +537,10 @@ onReady(function () {
 });
 
       </script>
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

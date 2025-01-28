@@ -149,7 +149,7 @@ youtube_activity
                     <div class="profile dropdown">
                        <img src="../img/profile.png" width="45px">
                        <div class="toggel">
-                          <span style="">Mayuri K.</span><br>
+                          <span style="">Slider Computacion</span><br>
                          <span style="">
                         info@compubinario.com
                          </span>
@@ -183,7 +183,7 @@ youtube_activity
                     </td> -->
                     <td>
          <p style="font-size: 23px;padding-left:30px;font-weight: 400; background: #dae1f3; margin-bottom: 0;padding: 5px;margin-top: 0;font-size: 20px;color: #444;">
-                Shedule Manager
+                Administrador
        </p>
                                            
                     </td>
@@ -253,7 +253,7 @@ youtube_activity
                         </td>
                         <td width="30%">
                         <select name="docid" id="" class="box filter-container-items" style="width:90% ;height: 37px;margin: 0;" >
-                            <option value="" disabled selected hidden>Choose Doctor Name from the list</option><br/>
+                            <option value="" disabled selected hidden>Elija el nombre del doctor de la lista</option><br/>
                                 
                             <?php 
                             
@@ -334,7 +334,7 @@ youtube_activity
                         <thead>
                         <tr>
                                 <th class="table-headin">
-                               Session Title
+                               Sesion
                                 
                                 </th>
                                 
@@ -342,17 +342,17 @@ youtube_activity
                                     Doctor
                                 </th>
                                 <th class="table-headin">
-                                    Sheduled Date & Time
+                                    Horario
                                     
                                 </th>
                                 <th class="table-headin">
-                                Max num that can be booked
+                                Número máximo que se puede reservar.
                                     
                                 </th>
                                 
                                 <th class="table-headin">
                                     
-                                    Events
+                                    Eventos
                                     
                                 </tr>
                         </thead>
@@ -465,14 +465,14 @@ youtube_activity
                                 <form action="add-session.php" method="POST" class="add-new-form">
                              <tr>
                                 <td class="label-td" colspan="">
-                                    <label for="title" class="form-label">Session Title : </label>
+                                    <label for="title" class="form-label">Sesion : </label>
                                      <input type="text" name="title" class="input-text" placeholder="Name of this Session" required><br>
                                 </td>
                            
                                 <td class="label-td" colspan="">
                                     <label for="docid" class="form-label">Select Doctor: </label>
                                     <select name="docid" id="" class="box" >
-                                    <option value="" disabled selected hidden>Choose Doctor Name from the list</option><br/>';
+                                    <option value="" disabled selected hidden>Elija el nombre del doctor de la lista</option><br/>';
                                         
         
                                         $list11 = $database->query("select  * from  doctor order by docname asc;");
@@ -633,7 +633,7 @@ youtube_activity
                             <tr>
                                 
                                 <td class="label-td" colspan="2">
-                                    <label for="name" class="form-label">Session Title: </label>
+                                    <label for="name" class="form-label">Sesion: </label>
                                 </td>
                             </tr>
                             <tr>
@@ -806,7 +806,7 @@ onReady(function () {
 });
 
       </script>
-<!--  Orginal Author Name: Mayuri K. 
+<!--  Orginal Author Name: Slider Computacion 
  for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
  Visit website : www.mayurik.com -->  
 </body>

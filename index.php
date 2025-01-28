@@ -1,2 +1,7 @@
-<?php header("Location: login.php");
-die(); ?>
+<?php 
+
+header("Location: login.php");
+
+die();
+
+?>

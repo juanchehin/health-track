@@ -113,7 +113,7 @@
                     <td class="menu-btn menu-icon-patient">
                         <a href="patient.php" class="non-style-link-menu">
                             <div>
-                           <p class="menu-text"><i class="material-symbols-outlined">face</i>Patientes</p></a>
+                           <p class="menu-text"><i class="material-symbols-outlined">face</i>Pacientes</p></a>
                         </div>
                     </td>
                 </tr>
@@ -181,23 +181,24 @@ youtube_activity
                        <img src="../img/profile.png" width="45px">
 
                           <div class="toggel">
-                          <span style="">Mayuri K.</span><br>
+                          <span style="">Slide Tucuman</span><br>
                          <span style="">
-                        info@compubinario.com
+                        slidetucuman@gmail.com
                          </span>
                       </div>
 
                       <div class="dropdown-content">
 
                       <a href="" class="drop dropdown-item">
-                        <i class="fa fa-user"></i>Profile</a>
+                        <i class="fa fa-user"></i>Perfil</a>
                        
                       <a href="" class="drop dropdown-item">
-                       <i class="fa fa-envelope"></i>Inbox</a>
+                       <i class="fa fa-envelope"></i>Mensajes</a>
 
                       <a href="../logout.php" class="drop dropdown-item logout">
                         <i class="fa fa-sign-out-alt"></i>
-                      Logout</a>
+                        Logout
+                        </a>
                       </div>
                     </div>
                         
@@ -268,10 +269,10 @@ youtube_activity
 
                   <div  class="head">
      <h4  class="font-20 weight-500 mb-2">
-      Beienvenido
+      Bienvenido
 
  <div class="colage">
- Mayuri K.
+ Slider Computacion
 </div>
 </h4>
 
@@ -616,11 +617,7 @@ onReady(function () {
 });
 
       </script>
-<!--  Orginal Author Name: Mayuri K. 
- for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
- Visit website : www.mayurik.com -->  
-<!--  Orginal Author Name: Mayuri K. 
- for any PHP, Codeignitor, Laravel OR Python work contact me at info@compubinario.com  
- Visit website : www.mayurik.com -->  
+
+
 </body>
 </html>
